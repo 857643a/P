@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Subway Surfers",
+    "description": "Klasik sonsuz koşu oyunu.",
+    "image": "https://example.com/subway.jpg",
+    "download_url": "https://www.mediafire.com/file/example1.apk",
+    "password": "sub123"
+  },
+  {
+    "id": "2",
+    "title": "Minecraft PE",
+    "description": "Popüler sandbox oyunu.",
+    "image": "https://example.com/minecraft.jpg",
+    "download_url": "https://www.mediafire.com/file/example2.apk",
+    "password": "craft2024"
+  }
+]
