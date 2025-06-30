@@ -1,32 +1,20 @@
 [
   {
-    "isim": "Zıplama Kralı",
-    "aciklama": "Zıplama yeteneklerini test et! Sonsuz engel ve skor yarışması seni bekliyor.",
-    "surum": "1.2.5",
-    "resim": "https://example.com/ziplama-kapak.jpg",
-    "ekstra": [
-      "https://example.com/ziplama-ekstra1.jpg",
-      "https://example.com/ziplama-ekstra2.jpg"
-    ],
-    "link": "https://example.com/ziplama.apk"
+    "isim": "Super Oyun",
+    "aciklama": "Bu oyun çok eğlenceli, 3D grafikleriyle dikkat çekiyor.",
+    "surum": "1.2.3",
+    "boyut": "45 MB",
+    "kategori": "Aksiyon",
+    "resim": "https://example.com/images/superoyun.png",
+    "link": "https://example.com/download/superoyun.apk"
   },
   {
-    "isim": "Uzay Savaşçısı",
-    "aciklama": "Düşman gemilerini yok et, galaksiyi kurtar!",
-    "surum": "2.0",
-    "resim": "https://example.com/uzay-kapak.jpg",
-    "ekstra": [
-      "https://example.com/uzay-ekstra1.jpg",
-      "https://example.com/uzay-ekstra2.jpg"
-    ],
-    "link": "https://example.com/uzay.apk"
-  },
-  {
-    "isim": "Yılan Efsanesi",
-    "aciklama": "Klasik yılan oyununu modern grafiklerle oyna!",
-    "surum": "1.0",
-    "resim": "https://example.com/yilan-kapak.jpg",
-    "ekstra": [],
-    "link": "https://example.com/yilan.apk"
+    "isim": "Bulmaca Zeka",
+    "aciklama": "Zekanızı test edin, saatlerce oynanabilir.",
+    "surum": "2.0.1",
+    "boyut": "30 MB",
+    "kategori": "Bulmaca",
+    "resim": "https://example.com/images/bulmacazeka.png",
+    "link": "https://example.com/download/bulmacazeka.apk"
   }
 ]
